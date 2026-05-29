@@ -1,4 +1,4 @@
-# Project-in-Statistics additional coding file
+# Project-in-Statistics w/ additional coding file
 
 Code used regarding the course Project in Statistics 25/26. 
 
@@ -8,3 +8,5 @@ Secondly some modifications were made in order to fit the likelihood to real dat
 Lastly some models were compared and evaluated in the real data setting.
 
 This is the order that one can find in the R Markdown. This is to be read by someone with knowledge in basic SDE's.
+
+Suggestions and comments are welcome :)
